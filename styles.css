@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+  /*imagenes*/
+  img {
+    border-radius: 5px;
+  }
+
+  /*letra*/
+  .letra1{
+    font-family: 'Monoton', cursive;
+    color: #977f7f;
+  }
+  p {
+    font-family: 'Reggae One', cursive;
+    }

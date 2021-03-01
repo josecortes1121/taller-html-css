@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+p{
+    font-family: 'Akaya Kanadaka', cursive;
+    font-size: x-large;
+ 
+}
+.pagina1{
+    width: 49.5%;
+    float: left;
+}
+header {
+    font-family: 'Lobster', cursive;
+    align-items: center;
+    }
+.pagina2 {
+    height: 30%;
+}
